@@ -20,7 +20,7 @@ def serial_loop():
                 serial_name = plist_com[0]
                 serial_gui.gui_lable_dispaly(serial_name,lable_x,lable_y)
                 lable_y=lable_y+0.1
-    time.sleep(1500)
+        time.sleep(15000)
 
 serial_gui.gui_init()
 
