@@ -1,6 +1,6 @@
 #!/usr/bin/python3
-import tkinter
 
+import tkinter
 
 
 root = tkinter.Tk()
